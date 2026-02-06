@@ -1,0 +1,15 @@
+Sustancia_A,Sustancia_B,Estado,Origen
+ACIDO NITRICO,POTASIO HIDROXIDO,Incompatible,Regla Ácido-Base
+ACETALDEHIDO,ACETONA,Incompatible,Matriz Inflamables
+ACETALDEHIDO,ALCOHOL ISOPROPILICO,Incompatible,Matriz Inflamables
+ACETALDEHIDO,ALCOHOL N PROPILICO,Incompatible,Matriz Inflamables
+POTASIO HIDROXIDO,ZINC CLORURO,Incompatible,Matriz Corrosivos
+POTASIO HIDROXIDO,CLORURO HIERRO III,Incompatible,Matriz Corrosivos
+POTASIO HIDROXIDO,YODO RESUBLIMADO,Incompatible,Matriz Corrosivos
+NITRATO DE PLATA,ACETONA,Incompatible,Matriz Comburentes
+PERMANGANATO DE POTASIO,ACETONA,Incompatible,Matriz Comburentes
+PERMANGANATO DE POTASIO,FENOL,Incompatible,Matriz Comburentes
+PEROXIDO DE HIDROGENO,PERMANGANATO DE POTASIO,Incompatible,Matriz Comburentes
+ACIDO NITRICO,ACETONA,Incompatible,Regla Oxidante Fuerte
+ACIDO NITRICO,ALCOHOL ISOPROPILICO,Incompatible,Regla Oxidante Fuerte
+ACIDO NITRICO,FENOL,Incompatible,Regla de Nitración Violenta
